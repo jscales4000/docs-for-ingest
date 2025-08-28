@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RADSecuritySystem</name>
+    </assembly>
+    <members>
+        <member name="P:Crestron.RAD.DeviceTypes.SecuritySystem.CrestronSerialDeviceApi.Dependencies">
+            <summary>
+            A list of dll file names that this class depends on. These dlls must be included in the pkg.
+            </summary>
+        </member>
+    </members>
+</doc>
