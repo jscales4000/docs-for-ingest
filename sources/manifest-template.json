@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/jsonld.json",
+  "name": "Example Source Manifest",
+  "description": "List of external documents to ingest for Archon",
+  "createdAt": "2025-08-28T11:39:00-07:00",
+  "tags": ["kb", "docs", "external"],
+  "sources": [
+    {
+      "id": "vendor-docs-001",
+      "title": "Vendor Product Guide",
+      "url": "https://example.com/docs/product-guide",
+      "type": "documentation",
+      "version": "latest",
+      "ingest": true,
+      "notes": "Stable URL, table of contents present. Summarize key sections in /docs/."
+    }
+  ]
+}
